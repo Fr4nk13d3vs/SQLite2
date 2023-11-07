@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
     EditText ID, Nombre, Area;
     ListView Lista;
     //Modifique mi archivo
+    ListView algo;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
